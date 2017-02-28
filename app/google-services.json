@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187665901338",
+    "project_id": "modern-optics-159901"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187665901338:android:7e1d72b02ce63bb0",
+        "android_client_info": {
+          "package_name": "com.example.radha.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187665901338-cnek9043fgeqdl9tg13naqeifujvv3os.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "187665901338-iakf4aaptiqbvkdfifo3aq54cq5fgrpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.radha.googlesignin",
+            "certificate_hash": "8eeb48c450af2d9689f7bba81f906796f78c28ef"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAigDutCU3q-Kh3yidsgL2kHGp1-pfKxio"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
